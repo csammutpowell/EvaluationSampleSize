@@ -1,2 +1,2 @@
 # EvaluationSampleSize
-Simulation study code for publication on evaluation study sample size performance
+Simulation study code and R shiny for publication on evaluation study sample size performance
